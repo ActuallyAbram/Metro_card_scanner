@@ -26,6 +26,7 @@
   </a>
 
   <h3 align="center">QR Metro Card Scanner</h3>
+</div>
 
 
 
