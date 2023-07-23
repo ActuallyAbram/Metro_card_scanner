@@ -19,6 +19,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/metro_stock_image.jpeg" alt="Logo" width="400" height="600">
+  </a>
+
+  <h3 align="center">QR Metro Card Scanner</h3>
 
 
 
@@ -88,7 +95,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Getting Started
 
 ### Prerequisites
-As this project contains an IoT element, the project requires an active gmail address and an app password. Instructions on how to set up an app password can be found in the first few minutes of this [video][https://youtu.be/NLM-KIMCuDk] 
+As this project contains an IoT element, the project requires an active gmail address and an app password. Instructions on how to set up an app password can be found in the first few minutes of this 
+<a href="https://www.linkedin.com/in/abramhuang" target="_blank">Video</a>
 
 
 ### Installation
